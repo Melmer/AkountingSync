@@ -11,6 +11,7 @@ python3 sync.py        # test manually
 
 ## Cron Setup
 
+```
 crontab -e
 ```
 
